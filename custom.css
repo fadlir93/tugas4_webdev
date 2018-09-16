@@ -1,0 +1,96 @@
+
+body {
+	background : url(picture/bgutama.jpg) no-repeat center fixed ;
+	background-size: cover;
+	line-height: 1.30;
+}
+
+.nav , .navbar-nav,  .navbar-left {
+	padding: 0px 100px 0px 0px;
+	
+}
+
+
+.pickiri img{
+	position: static;
+	width: 4%;
+}
+
+.carousel-inner {
+	min-height: 400px;
+}
+
+.title {
+	text-align: center;
+	height: 50px;
+	padding: auto;
+}
+.footer{
+	padding: 0px 0px 0px 15px;
+	min-height: 
+	
+}
+.footer1 {
+    background-color: #ffffff;
+	padding: 10px 0px 0px 0px;
+	margin: 0px 0px 0px 0px;
+	min-height: 50px;
+	text-align: center;
+	clear: both;
+}
+
+.footer2 {
+    background-color: rgba(209, 209, 209, 1);
+	min-height: 50px;
+	clear: both;
+}
+
+.list-group-item{
+	border-bottom: 3px solid black;
+}
+
+.titlefooter{
+	color: #000000;
+	border-bottom-style: groove;
+	border-color: #ff0000;
+	font-size: 20px;
+	line-height: 2;
+	font-family: serif;
+}
+
+.footer .col-md-4{
+	min-height: 170px;
+}
+
+.col-md-4 img{
+	padding: 0px 10px 0px 0px
+}
+.titleP{
+	letter-spacing: 20px;
+}
+
+p.titleF{
+	font-family: cursive;
+	font-size: 20px;
+	vertical-align: middle;
+	line-height: 1.8;
+}
+
+.titlemid {
+	line-height: 3.4;
+}
+
+.kanan{
+	text-align: right;
+	vertical-align: bottom;
+	line-height: 1.5;
+}
+
+.footer .col-md-2{
+	min-height: 170px;
+}
+
+.col-md-2 h3 {
+	border-bottom-style: groove;
+	border-color: #ff0000;
+}
